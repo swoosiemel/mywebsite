@@ -1,0 +1,50 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    body{
+     background-image: url(good.png);
+            width:100%;
+            height:auto;
+            border-radius: 0%;
+        
+        
+    }
+    
+    
+    header{
+  
+        text-align: center;
+        background-size: 50% auto;
+        width: 100%;
+
+
+
+    
+    }
+    div{text-align: left;
+        background-color:black;
+        background-size: auto;
+    }
+    h1{
+        color: black;  
+    }
+
+
+button{
+
+    color: black;
+    padding: 10px 30px;
+    font-size: 16px;
+    text-align: center;
+
+}
+
+    img{
+        
+        width:5%;
+        height:auto;
+        border-radius: 50%;
+    }
+
+    
